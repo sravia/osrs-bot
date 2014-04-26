@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jbot-master">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gamepack.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

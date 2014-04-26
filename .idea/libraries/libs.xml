@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/asm-all-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/substance-5.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/xstream-1.4.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
